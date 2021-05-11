@@ -1,3 +1,12 @@
+Como iniciar a aplicação:
+
+    1. O repositório está configurado com Gitpod. Basta colocar gitpod.io/# como prefixo da URL do repositório no GitHub. 
+        Exemplo.:
+            URL do repositório: https://github.com/MathSouz/avaliacao-dev-cx
+            URL para o GitPod: gitpod.io/#https://github.com/MathSouz/avaliacao-dev-cx
+
+    2. Você pode clonar o repositório, usar o npm install ou yarn install para baixar as dependências e em seguida pode iniciar com npm start ou yarn start. A aplicação está configurada para rodar na porta 8080.
+
 Descreva possíveis otimizações de performance que você poderia fazer no seu
 próprio código.
 
