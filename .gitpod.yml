@@ -1,6 +1,6 @@
-tasks:
-  - init: yarn && yarn build
-    command: yarn start
 ports:
   - port: 8080
   onOpen: open-browser
+tasks:
+  - init: npm install
+    command: npm start
