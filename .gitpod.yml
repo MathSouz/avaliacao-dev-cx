@@ -1,6 +1,7 @@
+tasks:
+  - init: yarn install
+    command: yarn start
+# Ports to expose on workspace startup (optional)
 ports:
   - port: 8080
-  onOpen: open-browser
-tasks:
-  - init: npm install
-    command: npm start
+    onOpen: open-browser
